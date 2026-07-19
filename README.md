@@ -338,7 +338,7 @@ tests/run_tests.sh           сквозные тесты
 tests/sample/edges.csv       пример из условия задачи
 ```
 
-## 8. Docker (по желанию)
+## 8. Docker
 
 ```bash
 docker build -t graphrank .
